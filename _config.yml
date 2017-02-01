@@ -59,7 +59,11 @@ blog_button:
 nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
+<<<<<<< HEAD
     - {title: 关于我, description: 我的简历, url: '/cv'}      
+=======
+    - {title: 关于我, description: about, url: '/about'}      
+>>>>>>> parent of 2d8896f... 关于我改成online-cv
     
 
 # Pagination
