@@ -60,7 +60,7 @@ nav:
     - {title: 所有文章, description: archive, url: '/archive'}   
     - {title: 标签, description: tags, url: '/tags'}      
     - {title: 关于我, description: 我的简历, url: '/cv1'}      
-    - {title: 地图, description: 迁徙地图, url: '/echarts-migration/map.html'}    
+    - {title: 地图, description: 迁徙地图, url: '/echarts-migration'}    
 # Pagination
 gems: [jekyll-paginate]
 paginate: 20
